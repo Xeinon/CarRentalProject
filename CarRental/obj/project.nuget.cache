@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "69PBWQoiwOpcJ6fSOGb0K8y3pU212oC2gCaNWsQgYFm5YooeERkhTjfmHyxFswKVrjKGCxe8R+eewBpzW7jXeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANAR\\source\\repos\\CarRental\\CarRental\\CarRental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANAR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ANAR\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
